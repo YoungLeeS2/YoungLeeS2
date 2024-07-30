@@ -8,7 +8,7 @@
 
 🔧 Tenho um Conhecimento Básico de Back-End que me Possibilita Entender, Colaborar e dar Suporte em Projetos Completos, Complementando minha Experiência com Front-End
 
-🎺 Amo Música, Sempre com uma [Playlist](https://open.spotify.com/user/31k6tt7qmnkuzuwph47wzbklvjiq/playlists) Variada que Mistura MPB, Bossa Nova, Pop, Rock, Trap, Música Underground e Outros Gêneros. Música é Meu Porto Seguro, Me Acalma e Faz com que Eu Fique Mais Tranquilo pra Qualquer Situação
+🎺 Amo Música, Sempre com uma [Playlist](https://open.spotify.com/user/31k6tt7qmnkuzuwph47wzbklvjiq/playlists) Doida que Mistura MPB, Bossa Nova, Pop, Rock, Trap, Música Underground e Outros Gêneros. Música é Meu Porto Seguro, Me Acalma e Faz com que Eu Fique Mais Tranquilo pra Qualquer Situação S2. [Meu Perfil No Last.fm](https://www.last.fm/user/pedroschacht)<br/>  
 
 [English Version](./README.md)
 
