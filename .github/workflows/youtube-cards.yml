@@ -11,8 +11,10 @@ jobs:
     # Allow the job to commit to the repository
     permissions:
       contents: write
-    # Run the GitHub Readme YouTube Cards action
     steps:
+      - uses: actions/checkout@v3
+      - name: Debug - Print README.md
+        run: cat README.md
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCFyOuH0GWfZwatoZhCSnfHA
