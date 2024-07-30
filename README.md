@@ -24,11 +24,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-# 💻 My YouTube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-[![yasuo montage - betteryet](https://ytcards.demolab.com/id=QU05M9EXe1Q&title=yasuo+montage+betteryet&lang=en&timestamp=1694390400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=137 "yasuo montage - betteryet")]
-[![pov: you are stacking krakens](https://ytcards.demolab.com/id=22oO0OPqPZQ&title=pov:+you+are+stacking+krakens&lang=en&timestamp=1688688000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=90 "pov: you are stacking krakens")]
-<!-- END YOUTUBE-CARDS -->
 [![](https://visitcount.itsvg.in/api?id=YoungLeeS2&icon=7&color=2)](https://visitcount.itsvg.in)
  
 
