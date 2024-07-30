@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**YoungLeeS2/YoungLeeS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Olá, sou o Young!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏼‍💻 Desenvolvedor Full Stack com Preferência por Front-End<br/>
+💻 Amo Fazer UIs e Interfaces e Colocar um Pouco da Minha Personalidade e dos Meus Gostos Pessoais Nelas<br/>
+🎓 Atualmente, Estou Aprendendo a Criar Extensões de Navegador e Aprimorando Minhas Habilidades em Python, HTML e JavaScript<br/>
+🎺 Amante de Música, Sempre com uma [Playlist](https://open.spotify.com/user/31k6tt7qmnkuzuwph47wzbklvjiq/playlists) que Vai de MPB, Bossa Nova, Pop, Rock, Trap, Música Underground e Outros Gêneros. Música é Meu Porto Seguro, Me Acalma e Faz com que Eu Fique Mais Tranquilo pra Qualquer Situação<br/>
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungLeeS2&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
