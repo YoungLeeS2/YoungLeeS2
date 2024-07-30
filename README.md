@@ -1,17 +1,15 @@
 <!-- introdução do README -->
 
-# 👋 Oi, Meu Nick é Young!
+👋 Hi, I'm Young!
+👨🏼‍💻 Full Stack Developer with a Focus and Preference for Front-End<br/>
 
-👨🏼‍💻 Desenvolvedor Full Stack com Foco e Preferência por Front-End<br/>
+🎓 Currently Learning to Create Browser Extensions and Improving My Skills in Python, HTML, and JavaScript<br/>
 
-🎓 Atualmente, Estou Aprendendo a Criar Extensões de Navegador e Melhorando Minhas Habilidades em Python, HTML e JavaScript<br/>
+💻 I Love Designing UIs and Interfaces, Infusing a Bit of My Personality and Personal Interests into Them<br/>
 
-💻 Amo Fazer UIs e Interfaces e Colocar um Pouco da Minha Personalidade e dos Meus Gostos Pessoais Nelas<br/>
+🔧 I Have Basic Back-End Knowledge, Which Allows Me to Understand, Collaborate, and Support Complete Projects, Complementing My Experience with Front-End<br/>
 
-🔧 Tenho um Conhecimento Básico de Back-End que me Possibilita Entender, Colaborar e dar Suporte em Projetos Completos, Complementando minha Experiência com Front-End<br/>
-
-🎺 Amo Música, Sempre com uma [Playlist](https://open.spotify.com/user/31k6tt7qmnkuzuwph47wzbklvjiq/playlists) Variada que Mistura MPB, Bossa Nova, Pop, Rock, Trap, Música Underground e Outros Gêneros. Música é Meu Porto Seguro, Me Acalma e Faz com que Eu Fique Mais Tranquilo pra Qualquer Situação<br/>
-
+🎺 I'm Passionate About Music, Always with a Playlist That Blends MPB, Bossa Nova, Pop, Rock, Trap, Underground Music, and Other Genres. Music is My Safe Haven, Calming Me and Helping Me Stay More Relaxed in Any Situation<br/>
 <!-- GitHub stats-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungLeeS2&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
