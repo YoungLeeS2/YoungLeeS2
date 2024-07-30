@@ -25,19 +25,12 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 # 💻 My YouTube Videos
- 
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YoungLeeS2&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-## 💬 Sociais
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro.schachtt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Iguariia) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCFyOuH0GWfZwatoZhCSnfHA) 
-
+<!-- BEGIN YOUTUBE-CARDS -->
+[![yasuo montage - betteryet](https://ytcards.demolab.com/id=QU05M9EXe1Q&title=yasuo+montage+betteryet&lang=en&timestamp=1694390400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=137 "yasuo montage - betteryet")]
+[![pov: you are stacking krakens](https://ytcards.demolab.com/id=22oO0OPqPZQ&title=pov:+you+are+stacking+krakens&lang=en&timestamp=1688688000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=90 "pov: you are stacking krakens")]
+<!-- END YOUTUBE-CARDS -->
 [![](https://visitcount.itsvg.in/api?id=YoungLeeS2&icon=7&color=2)](https://visitcount.itsvg.in)
-
+ 
 
 
 
