@@ -1,6 +1,6 @@
 <!-- introdução do README -->
 
-👋 Hi, I'm Young!
+👋 Hi, I'm Young!<br/>
 👨🏼‍💻 Full Stack Developer with a Focus and Preference for Front-End<br/>
 
 🎓 Currently Learning to Create Browser Extensions and Improving My Skills in Python, HTML, and JavaScript<br/>
