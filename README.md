@@ -10,7 +10,7 @@
 
 🔧 I Have Basic Back-End Knowledge, Which Allows Me to Understand, Collaborate, and Support Complete Projects, Complementing My Experience with Front-End<br/>
 
-🎺 I'm Passionate About Music, Always with a [Playlist](https://open.spotify.com/user/31k6tt7qmnkuzuwph47wzbklvjiq/playlists) That Blends MPB, Bossa Nova, Pop, Rock, Trap, Underground Music, and Other Genres. Music is My Safe Haven, Calming Me and Helping Me Stay More Relaxed in Any Situation<br/>
+🎺 I'm Passionate About Music, Always with a [Playlist](https://open.spotify.com/user/31k6tt7qmnkuzuwph47wzbklvjiq/playlists) That Blends MPB, Bossa Nova, Pop, Rock, Trap, Underground Music, and Other Genres. Music is My Safe Haven, Calming Me and Helping Me Stay More Relaxed in Any Situation S2.  [My profile on last.fm](https://www.last.fm/user/pedroschacht)<br/>  
 
 [versão em português](README.pt.md)
 <!-- GitHub stats-->
