@@ -1,4 +1,3 @@
-<!-- introdução do README -->
 
 # 👋 Hi, I'm Young!<br/>
 
